@@ -1,0 +1,23 @@
+# Configuración de Doxygen para PRT-7 Decoder
+
+PROJECT_NAME           = "PRT-7 Decoder"
+PROJECT_NUMBER         = "1.0"
+PROJECT_BRIEF          = "Decodificador de Protocolo Industrial PRT-7"
+OUTPUT_DIRECTORY       = docs
+INPUT                  = src include README.md
+FILE_PATTERNS          = *.cpp *.h *.md
+RECURSIVE              = YES
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+HTML_OUTPUT            = html
+USE_MDFILE_AS_MAINPAGE = README.md
+JAVADOC_AUTOBRIEF      = YES
+OPTIMIZE_OUTPUT_FOR_C  = NO
+BUILTIN_STL_SUPPORT    = YES
+GENERATE_TREEVIEW      = YES
+HAVE_DOT               = NO
+CALL_GRAPH             = YES
+CALLER_GRAPH           = YES

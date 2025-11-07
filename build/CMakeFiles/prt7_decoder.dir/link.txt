@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/prt7_decoder.dir/src/main.cpp.o CMakeFiles/prt7_decoder.dir/src/TramaBase.cpp.o CMakeFiles/prt7_decoder.dir/src/TramaLoad.cpp.o CMakeFiles/prt7_decoder.dir/src/TramaMap.cpp.o CMakeFiles/prt7_decoder.dir/src/RotorDeMapeo.cpp.o CMakeFiles/prt7_decoder.dir/src/ListaDeCarga.cpp.o CMakeFiles/prt7_decoder.dir/src/SerialPort.cpp.o -o prt7_decoder  -lpthread 

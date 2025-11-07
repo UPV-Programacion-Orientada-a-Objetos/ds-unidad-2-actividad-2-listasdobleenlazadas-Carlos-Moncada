@@ -1,0 +1,7 @@
+/home/moncada/Escritorio/ds-unidad-2-actividad-2-listasdobleenlazadas-Carlos-Moncada/build/CMakeFiles/prt7_decoder.dir
+/home/moncada/Escritorio/ds-unidad-2-actividad-2-listasdobleenlazadas-Carlos-Moncada/build/CMakeFiles/edit_cache.dir
+/home/moncada/Escritorio/ds-unidad-2-actividad-2-listasdobleenlazadas-Carlos-Moncada/build/CMakeFiles/rebuild_cache.dir
+/home/moncada/Escritorio/ds-unidad-2-actividad-2-listasdobleenlazadas-Carlos-Moncada/build/CMakeFiles/list_install_components.dir
+/home/moncada/Escritorio/ds-unidad-2-actividad-2-listasdobleenlazadas-Carlos-Moncada/build/CMakeFiles/install.dir
+/home/moncada/Escritorio/ds-unidad-2-actividad-2-listasdobleenlazadas-Carlos-Moncada/build/CMakeFiles/install/local.dir
+/home/moncada/Escritorio/ds-unidad-2-actividad-2-listasdobleenlazadas-Carlos-Moncada/build/CMakeFiles/install/strip.dir
